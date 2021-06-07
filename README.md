@@ -4,7 +4,9 @@
 
 (URL) https://github.com/rickiepark/machine-learning-with-python-cookbook
 
-2019년 5월 출간, 길벗 출판사  이 책은 크리스 알본(Chris Albon)이 쓴 아마존 베스트 셀러 "Machine Learning with Python Cookbook"의 번역서입니다.
+2019년 5월 출간, 길벗 출판사
+
+이 책은 크리스 알본(Chris Albon)이 쓴 아마존 베스트 셀러 "Machine Learning with Python Cookbook"의 번역서입니다.
 
 넘파이, 판다스부터 사이킷런, 케라스까지 다양한 머신러닝 작업에 필요한 핵심 조리법을 알차게 담고 있습니다.
 
